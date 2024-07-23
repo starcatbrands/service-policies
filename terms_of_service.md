@@ -4,7 +4,7 @@ Effective date: 2024-07-11
 !!! warning "Please Note:"
     StarCat Brands builds multiple products/services. These Terms of Service apply to all products/services built by StarCat Brands, unless otherwise noted within the individual project/product.
 
-    A full list of products/services can be found on the [StarCat Brands Homepage](https://starcatbrands.com) or at [https://about.starcatbrands.com/general/service_domains/](https://about.starcatbrands.com/general/service_domains/).
+    A full list of products/services can be found on the [:fontawesome-solid-user-astronaut: StarCat Brands Homepage](https://starcatbrands.com) or at [https://about.starcatbrands.com/general/service_domains/](https://about.starcatbrands.com/general/service_domains/).
 
 ## StarCat Brands Terms of Service
 ### 0. Welcome
@@ -38,14 +38,7 @@ THIS AGREEMENT IS SUBJECT TO CHANGE BY STARCAT BRANDS IN ITS SOLE DISCRETION AT 
 ### 4. Customer Content and Responsibilities
 1. **Customer Warranty.** Customer represents and warrants that any Customer Data hosted by StarCat Brands as part of the SCB Services shall not (a) infringe, misappropriate or violate any Intellectual Property Rights, publicity/privacy rights, law or regulation; (b) be deceptive, defamatory, obscene, pornographic or unlawful; (c) contain any viruses, worms or other malicious computer programming codes intended to damage, surreptitiously intercept or expropriate any system, data or personal or personally identifiable information; or (d) otherwise violate the rights of a third party. StarCat Brands is not obligated to back up any Customer Data; the Customer is solely responsible for creating backup copies of any Customer Data at Customer’s sole cost and expense. Customer agrees that any use of the SCB Services contrary to or in violation of the representations and warranties of Customer in this section constitutes unauthorized and improper use of the SCB Services. 
 2. **Customer Responsibility for Data and Security.** Customer and its Authorized Users shall have access to the Customer Data and shall be responsible for all changes to and/or deletions of Customer Data and the security of all passwords and other access protocols required in order the access the SCB Services. Customer shall have the ability to export Customer Data out of the SCB Services and is encouraged to make its own back-ups of the Customer Data. Customer, and not StarCat Brands, shall have the sole responsibility for the accuracy, quality, integrity, legality, reliability, security and appropriateness of all Customer Data.
-3. **Procedure for Making Claims of Intellectual Property Right Infringement.** It is StarCat Brands' policy to terminate membership privileges of any Customer who repeatedly infringes copyright, trademark, or other intellectual property rights upon prompt notification to StarCat Brands by the respective intellectual property owner or their legal agent. Without limiting the foregoing, if you believe that your work has been copied and posted on the SCB Services in a way that constitutes intellectual property rights infringement, please provide our designated intellectual property agent with the following information: (i) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright, trademark, or other intellectual property right; (ii) a description of the copyrighted work, trademark, or other intellectual property right that you claim has been infringed; (iii) a description of the location on the SCB Services of the material that you claim is infringing; (iv) your address, telephone number, and email address; (v) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright, trademark, or other intellectual property right owner, its agent or the law; and (vi) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright, trademark, or other intellectual property right owner or authorized to act on the copyright, trademark, or other intellectual property right owner’s behalf. Contact information for StarCat Brands' designated agent for notice of claims of infringement is as follows:  
-```
-DMCA Agent
-StarCat Brands
-PO Box 770951
-Lakewood, OH 44107
-legal@starcatbrands.com
-```
+3. **Procedure for Making Claims of Intellectual Property Right Infringement.** It is StarCat Brands' policy to terminate membership privileges of any Customer who repeatedly infringes copyright, trademark, or other intellectual property rights upon prompt notification to StarCat Brands by the respective intellectual property owner or their legal agent. Without limiting the foregoing, if you believe that your work has been copied and posted on the SCB Services in a way that constitutes intellectual property rights infringement, please file a DMCA/Copyright Infringement Claim as specified in our DMCA Policy at [https://about.starcatbrands.com/policies/dmca_policy/](https://about.starcatbrands.com/policies/dmca_policy/).
 
 ### 5. Disclaimer
 EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SCB SERVICES AND DOCUMENTATION ARE PROVIDED “AS IS,” “AS AVAILABLE,” AND WITH ALL FAULTS, AND STARCAT BRANDS AND ITS AFFILIATES, SUPPLIERS, CONTRACTORS, AND LICENSORS HEREBY DISCLAIM ALL OTHER WARRANTIES, REPRESENTATIONS, OR CONDITIONS, RELATING TO THE SCB SERVICES AND DOCUMENTATION WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. STARCAT BRANDS DOES NOT WARRANT THAT ALL ERRORS CAN BE CORRECTED, OR THAT OPERATION OF THE SCB SERVICES SHALL BE UNINTERRUPTED, SECURE, OR ERROR-FREE. SOME STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR CONDITIONS OR LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO CUSTOMER.
@@ -76,7 +69,7 @@ Customer will defend at its expense any suit brought against StarCat Brands, and
 
 ### 11. Agreement Updates
 1. When changes are made, StarCat Brands will make a new copy of this Agreement available on the Services and will also update the “Last Updated” date at the top of this Agreement. For any material changes, StarCat Brands will send Customer an updated copy of this Agreement to the email address tied to Customer’s account. Unless otherwise stated in such update, any changes to this Agreement will be effective immediately for new customers and thirty (30) days after posting for existing customers. StarCat Brands may require customers to provide consent to the updated Agreement in a specified manner before further use of the SCB Services is permitted. IF CUSTOMER DOES NOT AGREE TO ANY CHANGE(S) AFTER RECEIVING A NOTICE OF SUCH CHANGE(S), CUSTOMER SHALL STOP USING THE SCB SERVICES.
-2. You can find a history of revisions and sign up to get notified of future changes to this and all StarCat Brands policies by following the steps on our [Updates page](updates.md).
+2. You can find a history of revisions and sign up to get notified of future changes to this and all StarCat Brands policies by following the steps on our Updates page at [https://about.starcatbrands.com/policies/updates/](https://about.starcatbrands.com/policies/updates/).
 
 ### 12. Definitions
 As used in this agreement:
@@ -91,5 +84,5 @@ As used in this agreement:
 
 ### 13. Contact Us
 1. If you have any questions about these Terms, please contact us at: `legal@starcatbrands.com`.
-2. If you wish to make any complaint or claim with respect to the Services, please contact us at: `hello@starcatbrands.com`
+2. If you wish to make any complaint or claim with respect to the Services, please contact us at `hello@starcatbrands.com` with the subject line “Service Complaint.”
 3. When submitting a complaint, please provide a brief description of the nature of your complaint and the specific SCB Service(s) to which your complaint relates.
