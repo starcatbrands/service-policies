@@ -8,6 +8,7 @@ You can find a history of revisions and sign up to get notified of future change
 | :----------- | :------- | :------- |
 | Backblaze | USA | Backup storage, object storage |
 | Bunny.net | Slovenia | Content delivery |
+| Cloudflare | USA | Content delivery, hosting provider |
 | DigitalOcean | USA | Hosting provider |
 | FastMail | USA, Australia | Customer and Internal Email |
 | Fathom Analytics | Canada | Web analytics |
